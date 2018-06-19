@@ -1,0 +1,7 @@
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\bin\Release\ScanMaterial.exe
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\bin\Release\ScanMaterial.pdb
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\bin\Release\log4net.dll
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\bin\Release\MySql.Data.dll
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\obj\Release\ScanMaterial.exe
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\obj\Release\ScanMaterial.pdb
+D:\0.GitCode\code\ScanMaterial\ScanMaterial\obj\Release\ScanMaterial.csprojResolveAssemblyReference.cache
